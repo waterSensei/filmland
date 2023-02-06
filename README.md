@@ -2,6 +2,10 @@
 
 This repository contains a React project that uses the OMDb API to build a responsive web page that allows users to search movies and view their details.
 
+<p align="center">
+  <img src="/README/DEMO.gif" alt= “DEMO” width="1000" >
+</p>
+
 ## Getting Started
 
 1. [Clone](https://github.com/waterSensei/filmland.git "filmland") the repository to your local machine
